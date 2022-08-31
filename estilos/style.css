@@ -42,8 +42,6 @@ iframe#tela{
     height: 470px;
 }
 section#redes-sociais{
-    display: flex;
-    flex-direction: column;
     text-align: right;
 }
 section#redes-sociais a > img{
